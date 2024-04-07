@@ -4,3 +4,4 @@ data/valid
 *.zip
 *.csv
 *.h5
+*.yaml
